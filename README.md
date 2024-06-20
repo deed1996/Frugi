@@ -1,6 +1,6 @@
 # Frugi 
 
-The design of this webpage is based on a [Figma](https://www.figma.com/design/JwWdq8xv5KS9rljblVAR4q/Frugi-Content-Page?node-id=0-1&t=7eUGZFfj1MYZRPWT-1) file, and all design rights are owned by Clarks.
+The design of this webpage is based on a <a href="https://www.figma.com/design/JwWdq8xv5KS9rljblVAR4q/Frugi-Content-Page?node-id=0-1&t=7eUGZFfj1MYZRPWT-1" target="_blank">Figma</a> file, and all design rights are owned by Clarks.
 
 
 ## Table of contents
@@ -17,11 +17,11 @@ This webpage highlights the exclusive collaboration between Frugi and Clarks, em
 
 ### Screenshot
 
-![](./images/screenshot.jpeg)
+![](assets/screenshot.jpeg)
 
 ### Links
 
-- Solution URL: (https://deed1996.github.io/Frugi/)
+- Solution URL: <a href="https://deed1996.github.io/Frugi/" target="_blank">https://deed1996.github.io/Frugi/</a>
 
 ## My process
 
