@@ -39,7 +39,7 @@
     margin-top: 0;
 }
 .editorial-section--heading-h1 span {
-    color: #da4b62;
+    color: #a72237;
 }
 .editorial-copy__main-heading {
     font-family: Oswald, montserrat, sans-serif;
@@ -170,7 +170,7 @@
     margin-top: 60px;
 }
 .editorial-frugi--grid-container {
-    background-color: #da4b62;
+    background-color: #a72237;
 }
 .editorial-frugi--grid-container-2 {
     background-color: #00577d;
@@ -282,14 +282,13 @@
 
 .frugi--bee {
     animation: bee-bounce 2.5s normal infinite ease-in;
-    scale: 0.7;
-    top: -10%;
+    scale: 1;
+    top: 10%;
     left: 2%;
 }
 .frugi--dinosour {
     animation: dinosour-rock 1.5s alternate-reverse infinite ease-in-out;
     max-width: 60%;
-    top: 10%;
     left: 20%;
 }
 .frugi--rainbow {
@@ -300,20 +299,19 @@
 }
 .frugi--cotton {
     animation: cotton-pulse 1.5s alternate-reverse infinite ease-in-out;
-    max-width: 55%;
-    top: 15%;
-    left: 23%;
+    max-width: 75%;
+    top: 0;
+    left: 13%;
 }
 .frugi--machine {
     animation: machine-shake 2s normal infinite forwards ease-in-out;
     max-width: 55%;
-    top: 20%;
+    top: 10%;
     left: 20%;
 }
 .frugi--earth {
     animation: earth-wave 2s alternate-reverse infinite ease-in;
-    max-width: 45%;
-    top: 15%;
+    max-width: 50%;
     left: 25%;
 }
 
@@ -553,9 +551,6 @@ img {
         padding: 40px 60px;
         margin-bottom: 0;
     }
-    .frugi--bee {
-        scale: 0.6;
-    }
     .frugi--dinosour,
     .frugi--rainbow,
     .frugi--cotton,
@@ -671,9 +666,6 @@ img {
     .editorial-frugi--grid-sub--6 {
         margin-right: 8%;
     }
-    .frugi--bee {
-        scale: 0.6;
-    }
     .frugi--dinosour,
     .frugi--rainbow,
     .frugi--cotton,
@@ -687,13 +679,10 @@ img {
     }
 }
 @media all and (min-width: 1330px) {
-    .editorial-frugi--grid-sub--1 {
-        margin-top: -43%;
-    }
     .editorial-frugi--grid-sub--4 {
         transform: translateY(-20%);
     }
-    .frugi--dinosour,
+    /* .frugi--dinosour,
     .frugi--rainbow,
     .frugi--cotton,
     .frugi--machine,
@@ -707,20 +696,17 @@ img {
     .frugi--dinosour {
         left: 23%;
         top: 10%;
-    }
+    } */
 }
 @media all and (min-width: 1400px) {
     .editorial-frugi--grid-sub--1 {
-        margin-top: -40%;
+        margin-top: -49%;
     }
     .editorial-frugi--grid-sub--2 {
         transform: translateX(-35%);
     }
     .editorial-frugi--grid-sub--3 {
         padding-top: 51%;
-    }
-    .editorial-frugi--grid-sub--4 {
-        transform: translateY(-90px);
     }
     @keyframes bee-bounce {
         0%,
@@ -731,7 +717,7 @@ img {
             transform: translateY(-10px);
         }
         40% {
-            left: 5%;
+            left: -3%;
         }
         60% {
             transform: translateY(10px);
@@ -741,7 +727,7 @@ img {
         }
     }
 
-    .frugi--dinosour {
+    /* .frugi--dinosour {
         top: 2%;
         left: 20%;
     }
@@ -754,11 +740,11 @@ img {
     .frugi--cotton,
     .frugi--earth {
         top: 8%;
-    }
+    } */
 }
 @media all and (min-width: 1450px) {
     .editorial-frugi--grid-sub--1 {
-        margin-top: -35%;
+        margin-top: -125px;
     }
     .editorial-frugi--grid-sub--2 {
         transform: translateX(-34%);
