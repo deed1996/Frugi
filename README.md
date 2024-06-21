@@ -1,8 +1,5 @@
 # Frugi 
 
-The design of this webpage is based on a <a href="https://www.figma.com/design/JwWdq8xv5KS9rljblVAR4q/Frugi-Content-Page?node-id=0-1&t=7eUGZFfj1MYZRPWT-1" target="_blank">Figma</a> file, and all design rights are owned by Clarks.
-
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -35,5 +32,5 @@ This webpage highlights the exclusive collaboration between Frugi and Clarks, em
 
 ## Author
 
-- Website - Devarshi Desai
-- Design - Clarks
+- Design - Designed by Clarks
+- Website - Built by Devarshi Desai
